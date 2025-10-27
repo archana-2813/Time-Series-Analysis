@@ -1,0 +1,23 @@
+
+## Methodology
+1. **Data Preparation** – Organizing time-indexed data for analysis  
+2. **Trend Analysis** – Observing long-term movement  
+3. **Seasonality Detection** – Identifying cyclical patterns  
+4. **Additive Model** – Combining trend + seasonality + residuals  
+5. **Forecasting** – Predicting future data points  
+
+
+
+## Results & Insights
+- Demonstrated seasonal and trend decomposition using additive models  
+- Achieved stable and interpretable forecasts  
+- Validated results through visualization and model testing  
+
+
+
+## Future Work
+- Implement ARIMA and Prophet models for extended forecasting  
+- Automate model selection and evaluation metrics  
+- Integrate dashboard visualization with Tableau or Plotly  
+
+
